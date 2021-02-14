@@ -283,7 +283,7 @@
   .types-of-repair {
     margin-top: 84px;
     margin-bottom: 0;
-    height: 1700px;
+    height: 1750px;
   }
 
   .types-of-repair__title {
@@ -499,7 +499,7 @@
 
   .map__submit {
     display: block;
-    margin-left: 0
+    margin-left: 0;
     transform: none;
     width: 340px;
   }
@@ -550,7 +550,7 @@
     width: 19px;
     height: 15px;
   }
-  
+
   .map__insta-icon {
     width: 17px;
     height: 17px;
@@ -561,5 +561,4 @@
   .footer {
     display: none;
   }
-
 }

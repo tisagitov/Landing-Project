@@ -472,7 +472,12 @@ h1 span {
 .types-of-repair__head {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
+}
+
+.types-of-repair__tools-icon {
+  width: 114px;
+  height: 30px;
 }
 
 .types-of-repair__content {
@@ -575,6 +580,8 @@ h1 span {
 }
 
 .seal-the-deal__number {
+  width: 57px;
+  height: 57px;
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
@@ -585,8 +592,8 @@ h1 span {
   background-color: #e3b873;
   border: 8px solid #ffffff;
   box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
-  border-radius: 30px;
-  padding: 5px 7px;
+  border-radius: 50%;
+  padding: 8px 7px;
   margin-right: 21px;
 }
 
